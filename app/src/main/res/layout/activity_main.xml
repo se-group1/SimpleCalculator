@@ -139,7 +139,7 @@
                 android:id="@+id/button_multiply"
                 android:backgroundTint="#000000"
                 android:text="*" />
-#se
+
         </LinearLayout>
         <LinearLayout
             android:layout_width="match_parent"
